@@ -1,0 +1,5 @@
+My h : 
+
+This game is played by clicking on the bird, you can shoot as many times as you want but if you and miss 5 times it's game over. 
+Your health bar is located in the bottom left of your screen and 
+represented by an heart that is filled when you're full HP.
